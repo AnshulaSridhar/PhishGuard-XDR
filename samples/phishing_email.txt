@@ -1,0 +1,12 @@
+From: microsoft-support@secure-login.ru
+To: victim@gmail.com
+
+Subject: Account Locked
+
+Your account has been suspended.
+
+Click here:
+
+https://microsoft-login-secure.ru/login
+
+Failure to act may result in permanent loss of access.
